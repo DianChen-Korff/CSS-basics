@@ -1,0 +1,65 @@
+body { 
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#plum-background {
+    background-color: plum;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size:x-large;
+    color: black;
+}
+
+section * {
+    font-family: monospace;
+    background-color: seagreen;
+    color: seashell;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightyellow;
+}
+
+header * {
+    background-color: darkgoldenrod;
+    font-size: x-large;
+    color: black;
+}
+
+nav * {
+    font-size: small;
+    font-style: italic;
+    color: black;
+}
+
+footer * {
+    background-color: darkgoldenrod;
+    font-size: x-small;
+    color: black;
+}
+
+img.photo {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;}
+
+.background {
+    background-color: darkgoldenrod;
+    font-family: monospace;
+    color: whitesmoke
+}
+
+ul {
+    border: double;
+  }
+
+div {
+    text-align: center;
+}
